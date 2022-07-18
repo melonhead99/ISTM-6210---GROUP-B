@@ -688,3 +688,39 @@
 
 	}
 
+
+/*FAQ*/	
+
+      .faq-item{
+        margin-bottom: 40px;
+        margin-top: 40px;
+      }
+
+      .faq-body{
+        display: none;
+        margin-top: 30px;
+      }
+
+      .faq-wrapper{
+        padding: 50px 50px 50px 50px;
+        margin: 0 auto;
+		width: 60em;
+      }
+
+      .faq-inner{
+        padding: 30px;
+        background: #F8F8F8;
+      }
+
+      .faq-plus{
+        float: right;
+        font-size: 1.1em;
+        line-height: 1em;
+        cursor: pointer;
+      }
+
+      .hr{
+        background-color: #9b9b9b;
+      }
+
+   

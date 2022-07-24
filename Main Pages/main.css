@@ -576,8 +576,8 @@
 			-webkit-animation: none;
 			-ms-animation: none;
 			animation: none;
-			background: none;
-			color: rgba(255, 255, 255, 0.75);
+			background: #2f2f2f;
+			color: rgba(38, 10, 199, 0.979);
 			position: absolute;
 		}
 
@@ -601,7 +601,7 @@
 		}
 
 		#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
-			color: #fff;
+			color: #2f2f2f;
 		}
 
 		#banner h2 {
@@ -610,7 +610,19 @@
 			margin: 3em 2em 0.5em 0;
 			padding: 0;
 		}
-
+/* Buttons */
+.button {
+	background-color: #555555; /* Black */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+  }
 
 /* Main */
 
@@ -688,39 +700,36 @@
 
 	}
 
-
 /*FAQ*/	
 
-      .faq-item{
-        margin-bottom: 40px;
-        margin-top: 40px;
-      }
+.faq-item{
+	margin-bottom: 40px;
+	margin-top: 40px;
+  }
 
-      .faq-body{
-        display: none;
-        margin-top: 30px;
-      }
+  .faq-body{
+	display: none;
+	margin-top: 30px;
+  }
 
-      .faq-wrapper{
-        padding: 50px 50px 50px 50px;
-        margin: 0 auto;
-		width: 60em;
-      }
+  .faq-wrapper{
+	padding: 50px 50px 50px 50px;
+	margin: 0 auto;
+	width: 60em;
+  }
 
-      .faq-inner{
-        padding: 30px;
-        background: #F8F8F8;
-      }
+  .faq-inner{
+	padding: 30px;
+	background: #F8F8F8;
+  }
 
-      .faq-plus{
-        float: right;
-        font-size: 1.1em;
-        line-height: 1em;
-        cursor: pointer;
-      }
+  .faq-plus{
+	float: right;
+	font-size: 1.1em;
+	line-height: 1em;
+	cursor: pointer;
+  }
 
-      .hr{
-        background-color: #9b9b9b;
-      }
-
-   
+  .hr{
+	background-color: #9b9b9b;
+  }

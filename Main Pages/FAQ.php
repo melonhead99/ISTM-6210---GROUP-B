@@ -15,13 +15,13 @@
 <body class="bodyfaq">
 	<div id="page-wrapper">
 		<header id="header">
-			<h1><a href="myjourney_index.html">MyJourney</a></h1>
+			<h1><a href="myjourney_index.php">MyJourney</a></h1>
 			<nav id="nav">
 			<ul>
-				<li><a href="myjourney_index.html">Home</a></li>
-				<li><a href="how_it_works.html">How It Works</a></li>
-				<li><a href="FAQ.html">FAQ</a></li>
-				<li><a href="contact.html">Contact</a></li>
+				<li><a href="myjourney_index.php">Home</a></li>
+				<li><a href="how_it_works.php">How It Works</a></li>
+				<li><a href="FAQ.php">FAQ</a></li>
+				<li><a href="contact.php">Contact</a></li>
 			</ul>
 			</nav>
 	</header>
